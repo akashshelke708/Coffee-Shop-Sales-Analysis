@@ -1,1 +1,3 @@
 # Coffee-Shop-Sales-Analysis
+
+This end-to-end data analysis project focuses on optimizing a coffee shop’s sales performance by extracting actionable insights from transaction data. Using Microsoft Excel as the primary tool, I analyzed a Maven Analytics dataset containing details such as transaction IDs, dates, times, quantities, and product categories. The project workflow began with data cleaning and transformation in Power Query. Then I utilized Power Pivot and DAX to build a robust data model and calculate essential KPIs, such as Total Sales, Footfall, and Average Bill per Person. To present these findings, I developed a dynamic, modern-themed dashboard featuring interactive slicers for months and days.
